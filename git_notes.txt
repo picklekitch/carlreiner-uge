@@ -1,0 +1,13 @@
+ls
+  -l = long
+  -r = reverse order
+  -t = time order
+  -h = suffix labels
+redirection
+  >> = append instead of overwrite the output
+5 aspects of a commit
+  changes (diff)
+  identity of the user
+  date/time
+  message
+  unique identifier
